@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">practica</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="id">Id :</string>
+    <string name="user">User:</string>
+    <string name="name">Name:</string>
+
+    <string name="alta">Alta</string>
+    <string name="baja">Baja</string>
+    <string name="consulta">Consultar</string>
+    <string name="modificar">Modificar</string>
+    <string name="limpiar">Limpiar</string>
+
+</resources>
